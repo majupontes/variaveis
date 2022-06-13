@@ -1,0 +1,15 @@
+ALGORITMO: dadospessoais
+
+VARIAVEIS:
+ 
+nome, endereço: Caracter
+CPF, RG: Inteiro
+altura: Real
+
+COMANDOS DE ATRIBUIÇÕES:
+
+NOME <- Jose Almeida da Sila
+CPF <- 12345678900
+RG <- 9517530
+ALTURA <- 1.78
+ENDEREÇO <- RUA A CENTRO RECIFE PE
